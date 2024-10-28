@@ -1,0 +1,3 @@
+run:You can't run away!
+hide:There is nowhere to hide!
+fly:No you can fly south or north!
